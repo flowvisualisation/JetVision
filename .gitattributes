@@ -1,0 +1,2 @@
+# Force github to recognize language.
+*.pro linguist-language=IDL
